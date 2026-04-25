@@ -48,12 +48,10 @@ jobs:
             WeatherBot-Windows/WeatherBot.exe
             WeatherBot-Linux/WeatherBot
           body: |
-            ##  Climoo — Cutesy Weather Bot
+            ## 🌸 Climoo - Cutesy Weather Bot
 
             ### Windows
-            Baixe `WeatherBot.exe` e execute. Sem instalação, sem chave API!
+            Baixe WeatherBot.exe e execute. Sem instalacao, sem chave API!
 
             ### Linux
-```bash
             chmod +x WeatherBot && ./WeatherBot
-```
