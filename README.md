@@ -18,7 +18,7 @@ Neste projeto desenvolvi uma aplicação desktop completa em Python utilizando T
 ##  Como executar
 **1. Clone o repositório:**
 ```bash
-git clone https://github.com/SEU_USUARIO/cutesy-weather-bot
+git clone https://github.com/paola190108/Climoo
 cd cutesy-weather-bot
 ```
  
