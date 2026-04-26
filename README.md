@@ -1,7 +1,7 @@
 # Climoo
 Um bot meteorológico minimalista que flutua na sua área de trabalho com alertas automáticos de clima em tempo real.
 ## Descrição
-O Cutesy Weather Alert Bot é uma aplicação desktop desenvolvida em Python que exibe as condições climáticas atuais em uma janela flutuante e sem bordas no canto da tela. O design segue uma estética cutesy com paleta de cores pastel.
+O Climoo é uma aplicação desktop desenvolvida em Python que exibe as condições climáticas atuais em uma janela flutuante e sem bordas no canto da tela. O design segue uma estética cutesy com paleta de cores pastel.
 ## Tecnologias utilizadas
 - Linguagem: Python 
 - Interface gráfica: Tkinter (nativo)
